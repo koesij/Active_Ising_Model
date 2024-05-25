@@ -1,4 +1,4 @@
-# Active_Ising_Model
+# Active Ising Model
 This is an implementation of the Active Ising Model in Python. [1]
 
 ## Model Description
