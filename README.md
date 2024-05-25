@@ -48,7 +48,7 @@ where:
 - $\rho_i$ is the local density at site $i$.
 
 
-### Notification
+## Notification
 This model was known to exhibit a liquid-gas type flocking phase transition, however a recent study revealed that the polar order is metastable due to droplet excitation.[2]
 
 [1] Solon, Alexandre P., and Julien Tailleur. "Flocking with discrete symmetry: The two-dimensional active Ising model." Physical Review E 92.4 (2015): 042119.
