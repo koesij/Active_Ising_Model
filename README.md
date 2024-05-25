@@ -10,9 +10,9 @@ H = -J \sum_{\langle i,j \rangle} s_i s_j - h \sum_i s_i
 $$
 
 where:
-- \( H \) is the Hamiltonian.
-- \( J \) is the coupling constant.
-- \( \langle i,j \rangle \) indicates summation over nearest neighbors.
+- $( H $) is the Hamiltonian.
+- $( J $) is the coupling constant.
+- $( \langle i,j \rangle $) indicates summation over nearest neighbors.
 - \( s_i \) and \( s_j \) are the spins at sites \( i \) and \( j \).
 - \( h \) is the external magnetic field.
 
