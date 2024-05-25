@@ -50,3 +50,5 @@ This model was known to exhibit a liquid-gas type flocking phase transition, how
 
 [1] Solon, Alexandre P., and Julien Tailleur. "Flocking with discrete symmetry: The two-dimensional active Ising model." Physical Review E 92.4 (2015): 042119.
 [2] Benvegnen, Brieuc, et al. "Metastability of discrete-symmetry flocks." Physical review letters 131.21 (2023): 218301.
+
+
