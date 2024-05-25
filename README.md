@@ -1,14 +1,14 @@
 # Active_Ising_Model
 This is an implementation of the Active Ising Model in Python. [1]
 
-##
+## Model Description
 The Active Ising model is a variant of the traditional Ising model that incorporates activity, making it suitable for studying systems out of equilibrium.
 
 
 Physicists are particularly interested in the Active Ising model because it can exhibit motility-induced phase seperation (MIPS) in discrete symmetry. MIPS is a phenomenon observed in systems of self-propelled particles where, at high densities and/or high activity levels, particles spontaneously separate into dense (liquid-like) and dilute (gas-like) phases, even in the absence of attractive interactions. 
 
 
-
+### Hamiltonian of the Traditional Ising model
 
 The Hamiltonian of the traditional Ising model is given by:
 
@@ -22,6 +22,8 @@ where:
 - $\langle i,j \rangle$ indicates summation over nearest neighbors.
 - $s_i$ and $s_j$ are the spins at sites $i$ and $j$.
 - $h$ is the external magnetic field.
+
+### Hamiltonian of the Active Ising Model
 
 The Hamiltonian of the Active Ising model is given by:
 
@@ -46,8 +48,7 @@ where:
 - $\rho_i$ is the local density at site $i$.
 
 
-##
-(Notification)
+### Notification
 This model was known to exhibit a liquid-gas type flocking phase transition, however a recent study revealed that the polar order is metastable due to droplet excitation.[2]
 
 [1] Solon, Alexandre P., and Julien Tailleur. "Flocking with discrete symmetry: The two-dimensional active Ising model." Physical Review E 92.4 (2015): 042119.
