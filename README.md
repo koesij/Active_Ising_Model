@@ -11,9 +11,9 @@ $$
 
 where:
 - $H$ is the Hamiltonian.
-- $ /J $ is the coupling constant.
-- $ \langle i,j \rangle $ indicates summation over nearest neighbors.
-- $ s_i $ and $ s_j $ are the spins at sites $ i $ and $ j $.
+- $J$ is the coupling constant.
+- $\langle i,j \rangle$ indicates summation over nearest neighbors.
+- $s_i$ and $s_j$ are the spins at sites $i$ and $j$.
 - $ h $ is the external magnetic field.
 
 The Hamiltonian of the Active Ising model is given by:
